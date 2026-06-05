@@ -75,7 +75,7 @@ AI-Job-Market-Dashboard/│├── data/│   └── ai_jobs_dataset.csv├
 Clone the repository:
 
 
-git clone https://github.com/your-username/AI-Job-Market-Dashboard.git
+git clone https://github.com/reshmakathir/AI-Job-Market-Dashboard/tree/main
 
 
 Navigate to the project directory:
